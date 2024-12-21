@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Charger SXT RWD",
+      "price": 32999.99,
+      "quantity": 1,
+
+      "thumbnail": "https://cdn.dummyjson.com/products/images/vehicle/Charger%20SXT%20RWD/thumbnail.png"
+    }
+  ]
+}
